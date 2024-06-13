@@ -23,14 +23,14 @@ Welcome to the Nissan-Infiniti Landing Page repository! This project is a respon
 
 ## Screenshots
 
-![Landing Page Screenshot](assets/nissan.png)
+![Landing Page Screenshot](assets/Nissan-Sport.png)
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Nissan-Infiniti-Landing-Page.git
+git clone https://github.com/Bennyonye/Build-your-portfolio-project-Project-Landing-Page.git
 ```
 
 2. Navigate to the project directory:
@@ -60,26 +60,7 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature-branch`)
 6. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Unsplash](https://unsplash.com) for providing high-quality images
-- [Pexels](https://www.pexels.com) for providing high-quality images
-- [Pixabay](https://pixabay.com) for providing high-quality images
-- [ScrollReveal](https://scrollrevealjs.org/) for the animation library
-
 ---
 
 This project was created as part of a web design assignment to demonstrate the ability to build a responsive and visually appealing landing page using modern web technologies.
 ```
-
-### How to Use the README
-
-1. Replace `yourusername` in the clone command with your actual GitHub username.
-2. Ensure the screenshot in the `Screenshots` section reflects the actual landing page. You might want to take a screenshot of your completed landing page and replace the placeholder.
-3. Update the `Acknowledgements` section with any additional resources or libraries you used.
-
-This README provides a clear and detailed overview of the project, making it easy for others to understand, install, and use the landing page.
