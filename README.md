@@ -1,7 +1,3 @@
-### GitHub Repository Description
-
-**Repository Name:** Nissan-Infiniti-Landing-Page
-
 ```markdown
 # Nissan-Infiniti Landing Page
 
